@@ -4,4 +4,4 @@
 * **Instructions**
 * *Add a burger by typing in the text box*
 * *To devour it, click on the "Devour It!" button and it will move from the left to the right side of the page*
-**Enjoy!**
+* **Enjoy!**
