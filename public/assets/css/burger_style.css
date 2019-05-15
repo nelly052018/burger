@@ -1,0 +1,35 @@
+.burger{
+    max-height: 300px;
+    max-width: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+ul{
+font-weight: bold;
+padding: 15px;
+color: gray;
+
+}
+.display-4{
+    background: peru;
+}
+.lead{
+    font-style: italic;
+}
+.col-md-6{
+    background-color: burlywood;
+}
+.footer{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container1{
+    background-color: lightsalmon;
+}
+.container2{
+    background-color: darkgoldenrod;
+}
